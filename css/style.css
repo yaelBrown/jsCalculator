@@ -1,0 +1,23 @@
+* {
+  box-sizing:border-box;
+  font-family:'Open Sans',Helvetica,Arial,sans-serif;
+  margin:0;
+  padding:0;
+}
+
+border {
+  border: 3px solid #fff;
+}
+
+body {
+  background-color: #f39c12;
+}
+
+/*
+  Yael Section
+*/
+
+.yaelSection {
+  text-align: center;
+  margin-bottom: 40px;
+}
